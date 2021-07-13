@@ -3,10 +3,10 @@
 namespace Hot100
 {
     /// <summary>
-    /// 96. 不同的二叉搜索树
-    /// https://leetcode-cn.com/problems/unique-binary-search-trees/
+    /// 98. 验证二叉搜索树
+    /// https://leetcode-cn.com/problems/validate-binary-search-tree/
     /// </summary>
-    class Subject_096 : ISubject
+    class Subject_098 : ISubject
     {
         public void Test()
         {
